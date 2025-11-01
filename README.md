@@ -13,3 +13,4 @@ a program for personal management
    1. 字段名自己设计规则定义, 必须有说明书
    2. 数据库使用mysql
    3. 后端使用Java Spring 
+   3. 使用redis做优化
